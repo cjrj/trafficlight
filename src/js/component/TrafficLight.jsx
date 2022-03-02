@@ -1,5 +1,4 @@
 import React, { useState } from "react";
-// import { useState } from "react/cjs/react.production.min";
 
 export function TrafficLight() {
 	const [selectedColor, setSelectedColor] = useState("");
